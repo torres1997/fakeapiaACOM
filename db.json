@@ -3,7 +3,7 @@
   "cd_usuario": [
     { "id": 1, "nm_usuario": "ADMINISTRADOR", "login": "ADMIN", "senha": "//0ts14kSG9ZeR/z", "at_situacao": 1},
     { "id": 2, "nm_usuario": "LUIZ", "login": "lu", "senha": "123", "at_situacao": 2},
-    { "id": 3, "nm_usuario": "LUIZ", "login": "ra", "senha": "123", "at_situacao": 3},
+    { "id": 3, "nm_usuario": "luiz", "login": "ra", "senha": "123", "at_situacao": 3},
     { "id": 4, "nm_usuario": "FERNADO", "login": "fe", "senha": "123", "at_situacao": 4}
   ],
   "alunos": [
