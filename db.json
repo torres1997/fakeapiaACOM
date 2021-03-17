@@ -1,10 +1,10 @@
 
 {
   "cd_usuario": [
-    { "id": 1, "nm_usuario": "ADMINISTRADOR", "login": "ADMIN", "senha": "//0ts14kSG9ZeR/z", "at_situacao": 1},
-    { "id": 2, "nm_usuario": "LUIZ", "login": "lu", "senha": "123", "at_situacao": 2},
-    { "id": 3, "nm_usuario": "LUIZ", "login": "ra", "senha": "123", "at_situacao": 3},
-    { "id": 4, "nm_usuario": "FERNADO", "login": "fe", "senha": "123", "at_situacao": 4}
+    { "cd_usuario": 1, "x-Entidade": 2019000, "nm_usuario": "ADMINISTRADOR", "login": "ADMIN", "senha": "ever", "at_situacao": 1},
+    { "cd_usuario": 2, "x-Entidade": 2020000, "nm_usuario": "LUIZ", "login": "admilson", "senha": "123", "at_situacao": 2},
+    { "cd_usuario": 3, "x-Entidade": 2021000, "nm_usuario": "LUIZ", "login": "ademar", "senha": "123", "at_situacao": 3},
+    { "cd_usuario": 4, "x-Entidade": 2022000, "nm_usuario": "FERNADO", "login": "adilson", "senha": "123", "at_situacao": 4}
   ],
   "alunos": [
     { "id": 1, "nome": "Marcela da Silva", "curso": 1 },
