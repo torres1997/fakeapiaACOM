@@ -1,4 +1,4 @@
-
+{
     { "cd_usuario": 1, "x-Entidade": 2019000, "nm_usuario": "ADMINISTRADOR", "login": "ADMIN", "senha": "ever", "at_situacao": 1},
 
     { "cd_usuario": 2, "x-Entidade": 2020000, "nm_usuario": "LUIZ", "login": "admilson", "senha": "123", "at_situacao": 2},
@@ -6,4 +6,4 @@
     { "cd_usuario": 3, "x-Entidade": 2021000, "nm_usuario": "LUIZ", "login": "ademar", "senha": "123", "at_situacao": 3},
 
     { "cd_usuario": 4, "x-Entidade": 2022000, "nm_usuario": "FERNADO", "login": "adilson", "senha": "123", "at_situacao": 4}
-
+}
