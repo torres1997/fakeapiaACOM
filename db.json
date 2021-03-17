@@ -1,4 +1,4 @@
-{
+[
     {   
         "cd_usuario": 1, 
         "x-Entidade": 2019000, 
@@ -33,4 +33,4 @@
         "senha": "123", 
         "at_situacao": 4
     }
-}
+]
