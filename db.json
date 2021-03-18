@@ -2,7 +2,7 @@
     "cd_usuario" : [
             {   
                 "cd_usuario": 1, 
-                "x-Entidade": 2019000, 
+                "x-Entidade": null, 
                 "nm_usuario": "ADMINISTRADOR",  
                 "login": "ADMIN", 
                 "senha": "123", 
